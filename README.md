@@ -14,6 +14,12 @@ You can run your application in dev mode that enables live coding using:
 ./mvnw quarkus:dev
 ```
 
+To call the app endpoint and generate load a POST must be executed to the http://localhost:8080/hello endpoint. This curl command can be used:
+
+```shell
+curl -X POST http://localhost:8080/hello
+```
+
 > **_NOTE:_**  Quarkus now ships with a Dev UI, which is available in dev mode only at <http://localhost:8080/q/dev/>.
 
 ## Packaging and running the application

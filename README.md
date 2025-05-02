@@ -1,4 +1,4 @@
-# quarkus-native-telemetry
+# Quarkus native telemetry
 
 This project is based on a *code-with-quarkus* project that can be obtained at http://code.quarkus.io
 

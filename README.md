@@ -1,8 +1,10 @@
 # Quarkus native telemetry
 
-This project is based on a *code-with-quarkus* project that can be obtained at http://code.quarkus.io
+This project contains the code presented in the [Monitor your Quarkus native application on Azure](https://devblogs.microsoft.com/java/monitor-your-quarkus-native-application-on-azure/) blog post.
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
+It is based on a *code-with-quarkus* project that can be obtained at http://code.quarkus.io
+
+It uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: <https://quarkus.io/>.
 
